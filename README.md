@@ -28,6 +28,9 @@ To improve logical thinking and coding efficiency by applying Python concepts to
 ## Outcome
 This project helped me build a strong foundation in Python, which I now apply in data analysis tasks using libraries like Pandas.
 
+## Google Colab Notebook Link:
+https://colab.research.google.com/drive/1z8LbmVY-vhVdzr9FUwPBLFk2YP0iHqGl?usp=sharing
+
 
 - Include time complexity analysis  
 - Organize problems by difficulty level  
